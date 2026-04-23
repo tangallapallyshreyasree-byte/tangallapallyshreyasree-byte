@@ -14,9 +14,9 @@ CS undergrad focused on backend development with Python and SQL.
 
 | Repository | Description |
 |---|---|
-| [Python-journey](https://github.com/tangallapallyshreyasree-byte/python-journey) | Python exercises and practice |
+| [python-journey](https://github.com/tangallapallyshreyasree-byte/python-journey) | Python exercises and practice |
 | [sql-practice](https://github.com/tangallapallyshreyasree-byte/sql-practice) | SQL queries and learning progress |
-| [DSA-solutions](https://github.com/tangallapallyshreyasree-byte/dsa-solutions) | DSA problems and notes |
+| [dsa-solutions](https://github.com/tangallapallyshreyasree-byte/dsa-solutions) | DSA problems and notes |
 
 ---
 
