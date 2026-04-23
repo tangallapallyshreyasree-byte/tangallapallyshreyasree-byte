@@ -30,4 +30,4 @@ CS undergrad focused on backend development with Python and SQL.
 
 ### Connect
 
-[LinkedIn](www.linkedin.com/in/shreya-sree-tangallapally)
+[LinkedIn](https://www.linkedin.com/in/shreya-sree-tangallapally/)
