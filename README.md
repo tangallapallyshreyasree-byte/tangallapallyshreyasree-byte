@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Shreya Sree
 
-<!--
-**tangallapallyshreyasree-byte/tangallapallyshreyasree-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS undergrad focused on backend development with Python and SQL.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+`Python` &nbsp; `SQL` &nbsp; `MySQL` &nbsp; `Git` &nbsp; `GitHub`
+
+---
+
+### Repositories
+
+| Repository | Description |
+|---|---|
+| python-journey | Python exercises and practice |
+| sql-practice | SQL queries and learning progress |
+| dsa-solutions | DSA problems and notes |
+
+---
+
+### GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=tangallapallyshreyasree-byte&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tangallapallyshreyasree-byte&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### Connect
+
+[LinkedIn](www.linkedin.com/in/shreya-sree-tangallapally)
